@@ -27,6 +27,6 @@ Descend with me into the Earth’s embrace! Armed with LiDAR and a penchant for 
 📫 Want to chat about code, swap cosmic theories, or discuss that elusive bug that's been playing hide-and-seek? Reach out. You can find me here:
 
 - GitHub: [ShekharShwetank](https://github.com/ShekharShwetank)
-- LinkedIn: [Shwetank Shekhar](www.linkedin.com/in/shwetank-shekhar-002b9b203)
+- LinkedIn: [Shwetank Shekhar](https://www.linkedin.com/in/shwetank-shekhar-002b9b203/)
 
 Remember, the best algorithms are written with stardust in our veins. Let's create magic together! ✨
