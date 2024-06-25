@@ -16,7 +16,7 @@ Picture this: electrodes clinging to skin, muscles flexing, and EMG signals whis
 ### 🌟 Skin Detective
 Deep learning is my magnifying glass, and historical data my breadcrumb trail. In the realm of skin disease diagnosis, I've sifted through pixels, teased out features, and built models that rival Sherlock's deductive prowess. CSV files bow before my predictive might! 🔍
 
-### 🌌 Geomagnetic Storm Whisperer
+### 🌌 Geomagnetic Storm Chaser
 When the auroras pirouette across the night sky, I'm backstage, orchestrating their cosmic ballet. My LSTM-powered model predicts geomagnetic storms with the precision of a stargazer. Because sometimes, the universe needs a heads-up. 🌌
 
 ### 🌎 3D Cartographer of Subterranean Realms
