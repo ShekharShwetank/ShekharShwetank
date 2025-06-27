@@ -11,6 +11,9 @@
 <a target="_blank" href="https://github.com/ShekharShwetank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+<a target="_blank" href="https://www.instagram.com/shekhar.bin/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 </div>
 
@@ -21,13 +24,6 @@ As my favourite writer, Jules Verne stated
 
 ### "Science, my lad, has been built upon many errors; but they are errors which it was good to fall into, for they led to the truth."
 His words resonate deeply with my personal endeavor towards continuous learning and exploration with technology.
-
-⚗️I’m a hyper-curious, science-fueled brainiac on a mission to build the heck out of life and make it ridiculously better. Wasting time? Not in this 10 billion percent rational brain(We Binary Bros, if you get the reference). If something sparks my interest, it becomes my next grand experiment — and trust me, I go full throttle, no shortcuts, no compromises.
-Tech is my lab coat and beaker, my katana and shield. I take every last skill from the battlefield of industry and weaponize it like a scientific arsenal — deploying it in daily life to engineer brilliance. Innovation isn’t a job. It’s a stone-cold revival mission to reforge the world, one epic idea at a time.
-
-📚Beneath the hype and high-energy hustle, there’s a rational core — shaped by books, long thoughts, and quiet moments of philosophical clarity. I’m not just chasing innovation for the thrill; I’m chasing meaning, depth, and ideas that endure.
-
-### "You have the right to work, but never to the fruit of work. You should never engage in action for the sake of reward, nor should you long for inaction." - Bhagavad Gita 2.47
 
 ### Fall, Rise, Fall harder RISE higher 🏔️
 
@@ -115,6 +111,34 @@ Tech is my lab coat and beaker, my katana and shield. I take every last skill fr
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShekharShwetank&theme=gruvbox" alt="stats" />
+</div>
+
+## OH! Looks like I have you interested..
+
+⚗️ I’m a hyper-curious, science-fueled brainiac on a mission to build the heck out of life and make it ridiculously better. Wasting time? Not in this 10 billion percent rational brain(We Binary Bros, if you get the reference). If something sparks my interest, it becomes my next grand experiment — and trust me, I go full throttle, no shortcuts, no compromises.
+Tech is my lab coat and beaker, my katana and shield. I take every last skill from the battlefield of industry and weaponize it like a scientific arsenal — deploying it in daily life to engineer brilliance. Innovation isn’t a job. It’s a stone-cold revival mission to reforge the world, one epic idea at a time.
+
+📚 Beneath the hype and high-energy hustle, there’s a rational core — shaped by books, long thoughts, and quiet moments of philosophical clarity. I’m not just chasing innovation for the thrill; I’m chasing meaning, depth, and ideas that endure.
+
+### "You have the right to work, but never to the fruit of work. You should never engage in action for the sake of reward, nor should you long for inaction." - Bhagavad Gita 2.47
+
+#### Connect with me:
+
+<div align="left">
+
+<a target="_blank" href="https://www.linkedin.com/in/shwetank-shekhar-002b9b203">
+  <img src="https://img.shields.io/badge/LinkedIn-076678?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a target="_blank" href="mailto:shwetankshekharcode@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-9d0006?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a target="_blank" href="https://github.com/ShekharShwetank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a target="_blank" href="https://www.instagram.com/shekhar.bin/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
 </div>
 
 <!--![](https://github-profile-trophy.vercel.app/?username=ShekharShwetank&theme=onedark&no-frame=false&no-bg=false&margin-w=4)-->
