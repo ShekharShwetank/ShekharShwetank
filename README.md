@@ -15,18 +15,21 @@
 </div>
 
 ## <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> Namaste Amigo 
-I am Shwetank Shekhar, an ECE Undergrad, I actively engage in projects and internships, focusing on ideation, Embedded Systems and RTOS development, IoT and Edge AI with a strong interest in Computer Vision, Image Processing, and Deep Learning.
+Shekhar here, an ECE Undergrad,who actively engages in projects and internships, focusing on ideation, Embedded Systems and RTOS development, IoT and Edge AI with a strong interest in Computer Vision, Image Processing, and Deep Learning.
 
-As my favourite writer, Jules Verne stated, 
+As my favourite writer, Jules Verne stated
 
-"Science, my lad, has been built upon many errors; but they are errors which it was good to fall into, for they led to the truth."
+### "Science, my lad, has been built upon many errors; but they are errors which it was good to fall into, for they led to the truth."
 His words resonate deeply with my personal endeavor towards continuous learning and exploration with technology.
 
-I am a curious dreamer, driven by a passion to transform and simplify lives through my creations. Inactive moments are rare; I am consistently engaged with whatever topic sparks my interest at any given time. Technology complements my thought processes and lifestyle. I integrate industry-acquired skills into all facets of my life to innovate.
+⚗️I’m a hyper-curious, science-fueled brainiac on a mission to build the heck out of life and make it ridiculously better. Wasting time? Not in this 10 billion percent rational brain(We Binary Bros, if you get the reference). If something sparks my interest, it becomes my next grand experiment — and trust me, I go full throttle, no shortcuts, no compromises.
+Tech is my lab coat and beaker, my katana and shield. I take every last skill from the battlefield of industry and weaponize it like a scientific arsenal — deploying it in daily life to engineer brilliance. Innovation isn’t a job. It’s a stone-cold revival mission to reforge the world, one epic idea at a time.
 
-"You have the right to work, but never to the fruit of work. You should never engage in action for the sake of reward, nor should you long for inaction." - Bhagavad Gita 2.47
+📚Beneath the hype and high-energy hustle, there’s a rational core — shaped by books, long thoughts, and quiet moments of philosophical clarity. I’m not just chasing innovation for the thrill; I’m chasing meaning, depth, and ideas that endure.
 
-Fall, Rise, Fall harder RISE higher 🏔️
+### "You have the right to work, but never to the fruit of work. You should never engage in action for the sake of reward, nor should you long for inaction." - Bhagavad Gita 2.47
+
+## Fall, Rise, Fall harder RISE higher 🏔️
 
 ## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Languages & Technical Proficiencies
 
