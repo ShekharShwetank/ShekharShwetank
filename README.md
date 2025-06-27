@@ -115,7 +115,7 @@ His words resonate deeply with my personal endeavor towards continuous learning 
 
 ## OH! Looks like I have you interested..
 
-⚗️ I’m a hyper-curious, science-fueled brainiac on a mission to build the heck out of life and make it ridiculously better. Wasting time? Not in this 10 billion percent rational brain(We Binary Bros, if you get the reference). If something sparks my interest, it becomes my next grand experiment — and trust me, I go full throttle, no shortcuts, no compromises.
+⚗️ I’m a hyper-curious, science-fueled brainiac on a mission to build the heck out of life and make it ridiculously better. Wasting time? Not in this 10 billion percent rational brain (We Binary Bros, if you get the reference). If something sparks my interest, it becomes my next grand experiment and trust me, I go full throttle, no shortcuts, no compromises.
 Tech is my lab coat and beaker, my katana and shield. I take every last skill from the battlefield of industry and weaponize it like a scientific arsenal — deploying it in daily life to engineer brilliance. Innovation isn’t a job. It’s a stone-cold revival mission to reforge the world, one epic idea at a time.
 
 📚 Beneath the hype and high-energy hustle, there’s a rational core — shaped by books, long thoughts, and quiet moments of philosophical clarity. I’m not just chasing innovation for the thrill; I’m chasing meaning, depth, and ideas that endure.
