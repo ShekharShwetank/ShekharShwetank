@@ -102,7 +102,7 @@ Tech is my lab coat and beaker, my katana and shield. I take every last skill fr
 <img src="https://img.shields.io/badge/System--Level%20Debugging-brown?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Real--time%20Performance%20Benchmarking-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Concurrency%20%26%20Parallelism-teal?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MATLAB%20R2024a-0076A8?style=for-the-badge&logo=matlab&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" />
 <br>
 </div>
 </div>
