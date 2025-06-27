@@ -1,4 +1,4 @@
-<center> <img src="./background.jpeg" /> </center>
+<center> <img src="./background.png" /> </center>
 
 <div align="center">
 
