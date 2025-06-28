@@ -1,4 +1,5 @@
-<center> <img src="./background.png" /> </center>
+<div align="center">
+<center> <img src="./Know_me.gif" width="400"/> </center>
 
 <div align="center">
 
