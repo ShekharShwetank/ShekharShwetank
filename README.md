@@ -1,5 +1,6 @@
 <div align="center">
-<center> <img src="./Know_me.gif" width="400"/> </center>
+<center> <img src="./Know_me.gif" width="300"/> </center>
+</div>
 
 <div align="center">
 
