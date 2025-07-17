@@ -136,8 +136,8 @@ Tech is my lab coat and beaker, my katana and shield. I take every last skill fr
 <a target="_blank" href="mailto:shwetankshekharcode@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-9d0006?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a target="_blank" href="https://github.com/ShekharShwetank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<a target="_blank" href="https://shekharshwetank.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=linkedin&logoColor=whit">
 </a>
 <a target="_blank" href="https://www.instagram.com/shekhar.bin/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
