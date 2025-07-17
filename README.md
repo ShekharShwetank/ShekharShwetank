@@ -10,7 +10,7 @@
 <a target="_blank" href="mailto:shwetankshekharcode@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-9d0006?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a target="_blank" href="https://github.com/shekharshwetank">
+<a target="_blank" href="https://shekharshwetank.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a target="_blank" href="https://www.instagram.com/shekhar.bin/">
