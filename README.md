@@ -1,17 +1,15 @@
 ## Fall, Rise, Fall harder RISE higher 🏔️
 <a target="_blank" href="https://shekharshwetank.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=linkedin&logoColor=whit">
+  <img src="https://img.shields.io/badge/Embedded & Edge AI Engineer-181717?style=for-the-badge&logo=linkedin&logoColor=whit">
 </a>
 
-
-  >>  Embedded & Edge AI Engineer</p>
-     Samsung PRISM (super-resolution speech systems and RAG)</p> 
-     Winner CATERPILLAR TECH CHALLENGE 2025: REAL-TIME MONOCULAR DEPTH ESTIMATION ON EDGE AI</p>
-     World’s Finalist IEEE YESIST’12 and Winner Madras Section: S-ROVER - SUBTERRANEAN ROVER</p>
-     Electronics Systems Integration Lead: ENTHALPY - University Rocketry Team</p>
-     Citizen Scientist: IASC - International Astronomical Search Collaboration</p>
-     2xAcademic Excellence Awardee: Government of India</p>
-     Athlete and Swimmer</p>
+  >> Samsung PRISM (Super-Resolution Speech Systems and RAG)  
+     Winner CATERPILLAR TECH CHALLENGE 2025: REAL-TIME MONOCULAR DEPTH ESTIMATION ON EDGE AI  
+     World’s Finalist IEEE YESIST’12 and Winner Madras Section: S-ROVER - SUBTERRANEAN ROVER  
+     Electronics Systems Integration Lead: ENTHALPY - University Rocketry Team  
+     Citizen Scientist: IASC - International Astronomical Search Collaboration  
+     2xAcademic Excellence Awardee: Government of India  
+     Athlete and Swimmer  
 
 
 ## Languages & Technical Proficiencies
