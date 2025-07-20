@@ -3,10 +3,16 @@
   <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=linkedin&logoColor=whit">
 </a>
 
->> Embedded & Edge AI Engineer</p>
-    <p>Real-Time Systems, Embedded Linux, RTOS</p>
-    <p>Samsung PRISM (super-resolution speech systems and RAG)</p>
-    <p>Winner Caterpillar Tech Challenge 2025 & IEEE YESIST'12</p>
+
+  >>  Embedded & Edge AI Engineer</p>
+     Samsung PRISM (super-resolution speech systems and RAG)</p> 
+     Winner CATERPILLAR TECH CHALLENGE 2025: REAL-TIME MONOCULAR DEPTH ESTIMATION ON EDGE AI</p>
+     World’s Finalist IEEE YESIST’12 and Winner Madras Section: S-ROVER - SUBTERRANEAN ROVER</p>
+     Electronics Systems Integration Lead: ENTHALPY - University Rocketry Team</p>
+     Citizen Scientist: IASC - International Astronomical Search Collaboration</p>
+     2xAcademic Excellence Awardee: Government of India</p>
+     Athlete and Swimmer</p>
+
 
 ## Languages & Technical Proficiencies
 
