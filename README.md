@@ -26,7 +26,7 @@
 
 **Embedded Systems & RTOS:** <br>
 <img src="https://img.shields.io/badge/Real--Time%20Operating%20Systems%20(RTOS)-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embedded%20Linux%20(PREEMPT_RT)-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embedded%20Linux%20-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Linux%20Kernel%20Customization-black?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Driver%20Development-darkblue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cross--compilation%20Toolchains-brown?style=for-the-badge" />
