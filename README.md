@@ -108,11 +108,12 @@ His words resonate deeply with my personal endeavor towards continuous learning 
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px" alt="Stats"> Statistics <img src="https://komarev.com/ghpvc/?username=Shekharshwetank&label=Sailors%20Been%20Here&color=0e75b6&style=flat" alt="ShekharShwetank" />
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShekharShwetank&theme=gruvbox" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShekharShwetank&theme=radical" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShekharShwetank&theme=gruvbox" alt="stats" />
+  <img width=31.6% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShekharShwetank&theme=2077" />
+  <img width=65% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShekharShwetank&theme=2077" alt="stats" />
 </div>
 
 ![](https://github-profile-trophy.vercel.app/?username=ShekharShwetank&column=7&theme=matrix&no-frame=false&no-bg=false&margin-w=50&title=-Issues,-Reviews)
