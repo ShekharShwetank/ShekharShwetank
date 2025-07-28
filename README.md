@@ -95,7 +95,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShekharShwetank&theme=radical" alt="Streak Stats" />
-  <img width=40% src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShekharShwetank&theme=2077" />
+  <img width=39% src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShekharShwetank&theme=2077" />
 </div>
 
 <div align="center">
