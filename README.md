@@ -1,6 +1,6 @@
 ## Fall, Rise, Fall harder RISE higher 🏔️
 <a target="_blank" href="https://shekharshwetank.github.io/Portfolio/">
-  ⫷<img src="https://img.shields.io/badge/Embedded & Edge AI Engineer-181717?style=for-the-badge&logo=linkedin&logoColor=whit">⫸
+  <img src="https://img.shields.io/badge/MY PORTFOLIO 🔗-181717?style=for-the-badge&logo=linkedin&logoColor=whit">
 </a>
 
   >> Samsung PRISM (Super-Resolution Speech Systems and RAG)  
