@@ -95,7 +95,7 @@
 </div>
 
 <div align="center">
-  <img width=31.6% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShekharShwetank&theme=2077" />
+  <img width=31.6% src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShekharShwetank&theme=2077" />
   <img width=65% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShekharShwetank&theme=2077" alt="stats" />
 </div>
 
