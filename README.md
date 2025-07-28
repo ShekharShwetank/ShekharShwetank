@@ -1,6 +1,6 @@
-## Fall, Rise, Fall harder RISE higher 🏔️
+## Fall, Rise, Fall harder RISE higher 🎼
 <a target="_blank" href="https://shekharshwetank.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/MY PORTFOLIO 🔗-181717?style=for-the-badge&logo=linkedin&logoColor=whit"><img src="https://komarev.com/ghpvc/?username=Shekharshwetank&label=Sailors%20Been%20Here&color=0e75b6&style=flat" alt="ShekharShwetank" />
+  <img src="https://img.shields.io/badge/INTERACTIVE PORTFOLIO 🔗-181717?style=for-the-badge&logo=linkedin&logoColor=whit"><img src="https://komarev.com/ghpvc/?username=Shekharshwetank&label=Sailors%20Been%20Here&color=0e75b6&style=flat" alt="ShekharShwetank" />
 </a>
 
   >> Samsung PRISM (Super-Resolution Speech Systems and RAG)  
