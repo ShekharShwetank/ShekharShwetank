@@ -1,4 +1,4 @@
-# `EMBEDDED & EDGE AI ENGINEER`
+# `AVIONICS & EDGE AI ENGINEER`
 
  ### `Fall, Rise, Fall harder RISE higher 🎼`
 
