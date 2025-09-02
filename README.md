@@ -25,9 +25,8 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/SystemVerilog-B03A21?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Verilog-B03A21?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Assembly-85C1E9?style=for-the-badge" />
 <br>
 
@@ -72,6 +71,7 @@
 <br>
 
 **Hardware Design & EDA:** <br>
+<img src="https://img.shields.io/badge/STM32CubeIDE%20&%20STM32CubeProgrammer-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cadence%20Virtuoso-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Electronic%20Design%20Automation-darkblue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/KiCad-202C3A?style=for-the-badge&logo=kicad&logoColor=white" />
@@ -86,7 +86,7 @@
 <img src="https://img.shields.io/badge/System--Level%20Debugging-brown?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Real--time%20Performance%20Benchmarking-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Concurrency%20%26%20Parallelism-teal?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=gold" />
 <br>
 </div>
 </div>
