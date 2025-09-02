@@ -71,7 +71,6 @@
 <br>
 
 **Hardware Design & EDA:** <br>
-<img src="https://img.shields.io/badge/STM32CubeIDE%20&%20STM32CubeProgrammer-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cadence%20Virtuoso-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Electronic%20Design%20Automation-darkblue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/KiCad-202C3A?style=for-the-badge&logo=kicad&logoColor=white" />
@@ -79,7 +78,9 @@
 <img src="https://img.shields.io/badge/Altium%20Designer-darkblue?style=for-the-badge&logo=altium-designer&logoColor=white" />
 <br>
 
-**Development Tools & Methodologies:** <br>
+**Development Tools, IDEs & Methodologies:** <br>
+<img src="https://img.shields.io/badge/FreedomStudio-crimson?style=for-the-badge&logo=sifive&logoColor=white" />
+<img src="https://img.shields.io/badge/STM32CubeIDE%20&%20STM32CubeProgrammer-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux%20Kernel%20Development%20Tools-black?style=for-the-badge&logo=linux&logoColor=white" />
