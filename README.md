@@ -13,7 +13,6 @@
      Electronics Systems Integration Lead: ENTHALPY - University Rocketry Team  
      Citizen Scientist: IASC - International Astronomical Search Collaboration  
      2xAcademic Excellence Awardee: Government of India  
-     Athlete and Swimmer  
 
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px" alt="Stats"> Statistics
 
