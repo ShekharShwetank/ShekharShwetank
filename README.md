@@ -47,8 +47,5 @@
 <a target="_blank" href="https://shekharshwetank.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=linkedin&logoColor=whit">
 </a>
-<a target="_blank" href="https://www.instagram.com/shekhar.bin/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 
 </div>
